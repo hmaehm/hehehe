@@ -1,0 +1,8 @@
+{
+  "name": "Filmrame",
+  "description": "Filmrame streaming repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/hmaehm/hehehe/master/plugins.json"
+  ]
+}

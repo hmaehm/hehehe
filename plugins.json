@@ -3,6 +3,11 @@
     "name": "Filmrame",
     "internalName": "Filmrame",
     "version": 1,
+    "apiVersion": 1,
+    "fileSize": 10260,
+    "fileHash": "sha256-4b1b598bfe6629fc4d93d5208477b3199681c9c056e5f877524c4127df0d80b0",
+    "repositoryUrl": "https://github.com/hmaehm/hehehe",
+    "url": "https://raw.githubusercontent.com/hmaehm/hehehe/master/Filmrame.cs3",
     "description": "Streaming provider for bokepindo69.net (JAV Sub Indo, Indo, Asia, Japan, etc.)",
     "authors": [
       "filmrame"
@@ -11,8 +16,6 @@
       "NSFW"
     ],
     "language": "id",
-    "status": 1,
-    "fileSize": 10260,
-    "url": "https://raw.githubusercontent.com/hmaehm/hehehe/master/Filmrame.cs3"
+    "status": 1
   }
 ]
