@@ -1,4 +1,4 @@
-version = 1
+version = 2
 
 cloudstream {
     description = "Streaming provider for bokepindo69.net (JAV Sub Indo, Indo, Asia, Japan, etc.)"
