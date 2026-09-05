@@ -1,7 +1,7 @@
-version = 2
+version = 3
 
 cloudstream {
-    description = "Streaming provider for bokepindo69.net (JAV Sub Indo, Indo, Asia, Japan, etc.)"
+    description = "Streaming provider for bokepindo69.net and vikuy.click"
     authors = listOf("filmrame")
     status = 1
     tvTypes = listOf("NSFW")

@@ -8,5 +8,6 @@ import com.lagradost.cloudstream3.plugins.Plugin
 class FilmramePlugin : Plugin() {
     override fun load(context: Context) {
         registerMainAPI(FilmrameProvider())
+        registerMainAPI(VikuyProvider())
     }
 }
